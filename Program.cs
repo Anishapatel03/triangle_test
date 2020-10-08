@@ -33,11 +33,11 @@ namespace TriangleSolver
             {
                 return false;
             }
-
+            
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("\n enter side A : ");
+            Console.WriteLine("\n enter side A: ");
             int A = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("\n enter side B : ");
